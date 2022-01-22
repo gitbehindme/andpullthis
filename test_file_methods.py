@@ -1,3 +1,4 @@
+I have no idea what I'm doing
 """Methods of File Objects
 
 @see: https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects
